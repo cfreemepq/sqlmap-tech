@@ -3,8 +3,9 @@
 
 1) Download sqlmap on https://github.com/sqlmapproject/sqlmap
 2) If you dont have python download this https://python.org/
-3) Move the sqlmap folder into your disk ![Image](https://casanova.i-really-dont-want-to.live/5AxkW0IcU.png) and launch the command prompt as administrator
-4) # Type
+3) Move the sqlmap folder into your disk ![Image](https://casanova.i-really-dont-want-to.live/5AxkW0IcU.png) 
+4) Launch the command prompt as administrator
+5) # Type
 ```bash
 cd ../../..
 ```
@@ -13,4 +14,9 @@ cd ../../..
 cd C:\sqlmap
 ```
 6) Make sure you renamed the folder to sqlmap
-7) ![Image](https://casanova.i-really-dont-want-to.live/5AxmMDKH8)
+7) ![Image](https://casanova.i-really-dont-want-to.live/5AxmMDKH8.png)
+8) Now we will use pip, if you dont have pip installed download it on https://pip.pypa.io/en/stable/installation/
+9) # Type
+```python
+pip3 install sqlmap
+```
