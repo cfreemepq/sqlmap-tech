@@ -20,3 +20,8 @@ cd C:\sqlmap
 ```python
 pip3 install sqlmap
 ```
+10) # Now use
+```
+sqlmap (your php site link) --dbs
+```
+11) # Commands ![Image](https://casanova.i-really-dont-want-to.live/5AxoR61_A.png)
